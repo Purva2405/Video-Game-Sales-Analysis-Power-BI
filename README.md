@@ -29,7 +29,7 @@ The goal of this project is to demonstrate skills in **data cleaning, data model
 
 ## Dashboard Pages:
 
-### <ins> 1. Sales Overview:- </ins>
+### <ins> Sales Overview:- </ins>
 
 * Total Sales
 * Total Titles
@@ -61,7 +61,7 @@ The goal of this project is to demonstrate skills in **data cleaning, data model
 
 ![Dashboard Overview](Dashboard/regional_sales.png)
 
-### <ins> 4. Sales Trends Over Time:- </ins>
+### <ins> Sales Trends Over Time:- </ins>
 
 * Total sales trend by release year (with trendline)
 * Average sales per title over time
