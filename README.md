@@ -37,7 +37,7 @@ The goal of this project is to demonstrate skills in **data cleaning, data model
 * Top-performing platforms and titles
 * Interactive slicers for exploration
 
-![Dashboard Overview](sales_overview.png)
+![Dashboard Overview](Dashboard/sales_overview.png)
 
 ### <ins> Genre & Platform Performance:- </ins>
 
@@ -46,7 +46,7 @@ The goal of this project is to demonstrate skills in **data cleaning, data model
 * Platform-wise performance across genres
 * Publisher and platform comparison matrix
 
-![Dashboard Overview](genre&platform_perform.png)
+![Dashboard Overview](Dashboard/genre&platform_perform.png)
 
 ### <ins> Regional Sales Analysis:- </ins>
 
@@ -59,7 +59,7 @@ The goal of this project is to demonstrate skills in **data cleaning, data model
 * Regional market share visualization
 * Genre-wise sales comparison across regions
 
-![Dashboard Overview](regional_sales.png)
+![Dashboard Overview](Dashboard/regional_sales.png)
 
 ### <ins> 4. Sales Trends Over Time:- </ins>
 
@@ -67,7 +67,7 @@ The goal of this project is to demonstrate skills in **data cleaning, data model
 * Average sales per title over time
 * Scatter analysis comparing release year vs average sales
 
-![Dashboard Overview](sales_trends_over_time.png)
+![Dashboard Overview](Dashboard/sales_trends_over_time.png)
 
 ## Key Insights:
 
